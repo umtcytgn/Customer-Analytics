@@ -1,0 +1,7 @@
+An office store starts a telemarketing campaign.
+
+For 16k customers, historical details and sales amount during campaign are recorded.
+
+It is requested to 
+- Profile customers
+- Predict profitable customers to target in next telemarketing campaign
